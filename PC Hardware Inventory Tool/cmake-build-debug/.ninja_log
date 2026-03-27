@@ -1,0 +1,33 @@
+# ninja log v6
+3575	7073	7706656733689945	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/filters/OrCriteria.cpp.obj	d137dec069b42721
+3609	7079	7706656734032924	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/models/HardwareItem.cpp.obj	990f4c6b072e7ea4
+20	260	7706911781041026	PC_Hardware_Inventory_Tool_autogen/timestamp	3e569ae41f2a7682
+3583	9798	7706656733770917	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/ui/HardwareTableModel.cpp.obj	60972ed3144e3802
+20	260	7706911781041026	C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/PC_Hardware_Inventory_Tool_autogen/timestamp	3e569ae41f2a7682
+20	260	7706911781041026	PC_Hardware_Inventory_Tool_autogen/mocs_compilation.cpp	3e569ae41f2a7682
+3557	7095	7706656733513635	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/filters/ConcreteFilters.cpp.obj	73da2428f587a13a
+20	260	7706911781041026	C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/PC_Hardware_Inventory_Tool_autogen/mocs_compilation.cpp	3e569ae41f2a7682
+3544	7104	7706656733388251	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/controllers/Commands.cpp.obj	2c6372ad2bde0916
+262	1739	7706911783455646	PC_Hardware_Inventory_Tool.exe	fc0d4118dbcf3413
+3566	7122	7706656733602105	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/filters/AndCriteria.cpp.obj	9d5cb3928786f44d
+3520	10705	7706656733148196	CMakeFiles/PC_Hardware_Inventory_Tool.dir/PC_Hardware_Inventory_Tool_autogen/mocs_compilation.cpp.obj	3619aba6fb5f623f
+3551	7758	7706656733443437	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/controllers/HardwareController.cpp.obj	554d7271a4987602
+3533	9558	7706656733268119	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/repos/CSVHardwareRepository.cpp.obj	6e47db9eb6386f38
+3539	10354	7706656733328182	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/repos/JSONHardwareRepository.cpp.obj	795a4280d0414f56
+3591	10409	7706656733853414	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/ui/AddEditDialog.cpp.obj	152bc92dbd5df9d9
+258	6613	7706910765034863	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/main.cpp.obj	690832e66a27e155
+3600	11454	7706656733940790	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/ui/MainWindow.cpp.obj	a23cd6024ce493fc
+266	5467	7706910765106084	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/tests/RepoControllerTests.cpp.obj	339621f4cb663e81
+11	921	7706911812223540	build.ninja	9a3872b065f2176
+93	470	7708259604808823	PC_Hardware_Inventory_Tool_autogen/timestamp	3e569ae41f2a7682
+93	470	7708259604808823	PC_Hardware_Inventory_Tool_autogen/mocs_compilation.cpp	3e569ae41f2a7682
+93	470	7708259604808823	C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/PC_Hardware_Inventory_Tool_autogen/timestamp	3e569ae41f2a7682
+93	470	7708259604808823	C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/PC_Hardware_Inventory_Tool_autogen/mocs_compilation.cpp	3e569ae41f2a7682
+472	7938	7708259608586382	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/main.cpp.obj	690832e66a27e155
+7939	10226	7708259683248385	PC_Hardware_Inventory_Tool.exe	fc0d4118dbcf3413
+23	367	7708261371249235	PC_Hardware_Inventory_Tool_autogen/timestamp	3e569ae41f2a7682
+23	367	7708261371249235	PC_Hardware_Inventory_Tool_autogen/mocs_compilation.cpp	3e569ae41f2a7682
+23	367	7708261371249235	C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/PC_Hardware_Inventory_Tool_autogen/timestamp	3e569ae41f2a7682
+23	367	7708261371249235	C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/PC_Hardware_Inventory_Tool_autogen/mocs_compilation.cpp	3e569ae41f2a7682
+369	8441	7708261374703502	CMakeFiles/PC_Hardware_Inventory_Tool.dir/src/main.cpp.obj	690832e66a27e155
+8441	10284	7708261455425886	PC_Hardware_Inventory_Tool.exe	fc0d4118dbcf3413

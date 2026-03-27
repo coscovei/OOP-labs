@@ -1,0 +1,4 @@
+id,category,brand,model,serialNumber,location,quantity,notes
+3,CPU,AMD,Ryzen 7,SN800,Desk,3,
+4,GPU,AMD,RX 5600,SN801,Desk,1,
+5,RAM,Kingston,HyperX,SN802,Server,16,
