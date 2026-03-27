@@ -1,0 +1,22 @@
+[
+    {
+        "brand": "EVGA",
+        "category": "PSU",
+        "id": 2,
+        "location": "Server",
+        "model": "SuperNOVA",
+        "notes": "",
+        "quantity": 3,
+        "serialNumber": "SN400"
+    },
+    {
+        "brand": "NZXT",
+        "category": "Case",
+        "id": 3,
+        "location": "Shop",
+        "model": "H510",
+        "notes": "",
+        "quantity": 2,
+        "serialNumber": "SN401"
+    }
+]

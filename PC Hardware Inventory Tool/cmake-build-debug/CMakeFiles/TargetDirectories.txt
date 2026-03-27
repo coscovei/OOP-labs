@@ -1,0 +1,5 @@
+C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/CMakeFiles/PC_Hardware_Inventory_Tool.dir
+C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/CMakeFiles/PC_Hardware_Inventory_Tool_autogen_timestamp_deps.dir
+C:/Users/matei/CLionProjects/PC Hardware Inventory Tool/cmake-build-debug/CMakeFiles/PC_Hardware_Inventory_Tool_autogen.dir
