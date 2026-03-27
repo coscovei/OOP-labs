@@ -1,0 +1,5 @@
+C:/Users/matei/CLionProjects/Lab13/cmake-build-debug/CMakeFiles/Lab13.dir
+C:/Users/matei/CLionProjects/Lab13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matei/CLionProjects/Lab13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/matei/CLionProjects/Lab13/cmake-build-debug/CMakeFiles/Lab13_autogen_timestamp_deps.dir
+C:/Users/matei/CLionProjects/Lab13/cmake-build-debug/CMakeFiles/Lab13_autogen.dir
