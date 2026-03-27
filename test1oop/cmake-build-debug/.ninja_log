@@ -1,0 +1,5 @@
+# ninja log v6
+8	1969	7647926298475434	CMakeFiles/test1oop.dir/main.cpp.obj	4902aafbb60bb793
+9	631	7647890724926399	CMakeFiles/test1oop.dir/TripRepository.cpp.obj	c1dcbadd5c9f46b3
+11	658	7647881753645483	CMakeFiles/test1oop.dir/MonetaryUnit.cpp.obj	fbe5d289026f898f
+1969	2334	7647926318089361	test1oop.exe	13f0b94f67b5808c
