@@ -1,0 +1,7 @@
+C:/Users/matei/CLionProjects/Lab1/cmake-build-debug/CMakeFiles/Pr1ex.dir
+C:/Users/matei/CLionProjects/Lab1/cmake-build-debug/CMakeFiles/Pr2ex.dir
+C:/Users/matei/CLionProjects/Lab1/cmake-build-debug/CMakeFiles/Pr3ex.dir
+C:/Users/matei/CLionProjects/Lab1/cmake-build-debug/CMakeFiles/Pr4ex.dir
+C:/Users/matei/CLionProjects/Lab1/cmake-build-debug/CMakeFiles/Pr5ex.dir
+C:/Users/matei/CLionProjects/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matei/CLionProjects/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
